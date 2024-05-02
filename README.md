@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Estou atualmente no 2º Ano da Etec Zona Leste, onde estou cursando Desenvolvimento de Sistemas.</h3>
 <p align="left">
 
-   
+   <div>
   <a href="https://github.com/Gabriel-Anjoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Anjoss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Anjoss&layout=compact&langs_count=16&theme=onedark"/>
