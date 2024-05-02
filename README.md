@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Olá! Eu chamo. Gabriel</h1>
+<h1 align="center"> 👋 Olá! Eu chamo Gabriel</h1>
 <h3 align="center">🎓 Estou atualmente no 2º Ano da Etec Zona Leste, onde estou cursando Desenvolvimento de Sistemas.</h3>
 <p align="left">
 
