@@ -32,3 +32,6 @@
 <a href="https://linkedin.com/in/gabriel anjos de almeida" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabriel anjos de almeida"  /></a>
 <a href="https://instagram.com/@anjos.xzl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@anjos.xzl"  /></a>
 </p>
+
+
+[![](https://visitcount.itsvg.in/api?id=Gabriel-Anjoss&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
