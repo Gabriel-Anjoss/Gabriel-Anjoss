@@ -1,10 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=header"/>
 <h1 align="center"> 👋 Olá! Eu chamo Gabriel</h1>
 <h3 align="center">🎓 Estou atualmente no 2º Ano da Etec Zona Leste, onde estou cursando Desenvolvimento de Sistemas.</h3>
 <p align="left">
 
  <div>
   <a href="https://github.com/Gabriel-Anjoss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Anjoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Anjoss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Anjoss&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 <h2 align="left">Linguagens:</h2>
@@ -50,3 +51,5 @@
 
 ###
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Anjoss&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=footer"/>
