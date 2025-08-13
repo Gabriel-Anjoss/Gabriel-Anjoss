@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=header"/>
 <h1 align="center"> 👋 Olá! Eu chamo Gabriel</h1>
-<h3 align="center">🎓 Estou atualmente no 2º Ano da Etec Zona Leste, onde estou cursando Desenvolvimento de Sistemas.</h3>
+<h3 align="center">🎓 Estou atualmente no 3º Ano da Etec Zona Leste, onde estou cursando Desenvolvimento de Sistemas.</h3>
 <p align="left">
 
  <div>
